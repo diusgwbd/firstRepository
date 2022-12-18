@@ -1,0 +1,2 @@
+# firstRepository
+изучаем гитхаб :з
